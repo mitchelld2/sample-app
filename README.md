@@ -1,5 +1,5 @@
-# Git Basics Assignment
-# Team 2
+# Git Basics Assignment 1
+# Team 8
 
 1. Create a new project folder and initialize the repository.
 2. Copy this file "README.md" into this project folder.
